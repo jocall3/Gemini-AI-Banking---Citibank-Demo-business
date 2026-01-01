@@ -1,0 +1,7 @@
+{
+  "name": "Gemini AI Banking - Citibank Demo",
+  "description": "A high-end, futuristic banking dashboard powered by Gemini AI, featuring real-time financial insights, quantum-safe encryption monitoring, and neuromorphic processing stats.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
